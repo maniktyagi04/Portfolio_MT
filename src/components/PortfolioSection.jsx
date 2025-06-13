@@ -74,6 +74,13 @@ const PortfolioSection = () => {
       issuer: 'Coursera',
       date: '2024',
       image: 'https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/04/DLAI-OAI-Image-Preview.png'
+    },
+    {
+      id: 4,
+      title: 'Build A Free Website With Wordpress',
+      issuer: 'Coursera',
+      date: '2024',
+      image: 'hhttps://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~build-free-website-wordpress/XDP~COURSE!~build-free-website-wordpress.jpeg'
     }
   ];
 
