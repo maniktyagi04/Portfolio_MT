@@ -80,7 +80,7 @@ const PortfolioSection = () => {
       title: 'Build A Free Website With Wordpress',
       issuer: 'Coursera',
       date: '2024',
-      image: 'hhttps://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~build-free-website-wordpress/XDP~COURSE!~build-free-website-wordpress.jpeg'
+      image: 'https://www.elegantthemes.com/blog/wp-content/uploads/2025/02/how-to-create-a-free-wordpress-site-featured-image.jpg'
     }
   ];
 
