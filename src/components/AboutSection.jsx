@@ -58,11 +58,7 @@ const AboutSection = () => {
               </h4>
               
               <p className="text-lg text-gray-300 leading-relaxed">
-                Seorang lulusan Teknik Jaringan Komputer dan Telekomunikasi 
-                yang memiliki ketertarikan besar dalam pengembangan Front-End. 
-                Saya berfokus pada menciptakan pengalaman digital yang 
-                menarik dan selalu berusaha memberikan solusi terbaik dalam 
-                setiap proyek yang saya kerjakan.
+                A dedicated and enthusiastic Full Stack Developer currently pursuing a B.Tech in Computer Science and Artificial Intelligence at Newton School of Technology. With a strong foundation in HTML, CSS, JavaScript (React), and Python, I specialize in building responsive, user-focused web applications. My projects—ranging from interactive games to career tools and real-time dashboards—demonstrate my ability to solve problems through clean code and thoughtful design. I am passionate about continuous learning, UI/UX design, and developing innovative digital solutions that make a real impact.
               </p>
             </div>
 
