@@ -126,7 +126,7 @@ const AboutSection = () => {
             <div className="w-16 h-16 bg-gradient-to-br from-purple-500 to-blue-500 rounded-2xl flex items-center justify-center mx-auto mb-4">
               <Code className="w-8 h-8 text-white" />
             </div>
-            <h4 className="text-3xl font-bold text-white mb-2">4</h4>
+            <h4 className="text-3xl font-bold text-white mb-2">10</h4>
             <p className="text-gray-400 text-sm uppercase tracking-wider">TOTAL PROJECTS</p>
             <p className="text-gray-500 text-xs mt-1">Innovative web solutions crafted</p>
             <ArrowRight className="w-4 h-4 text-purple-400 mx-auto mt-3" />
@@ -140,7 +140,7 @@ const AboutSection = () => {
             <div className="w-16 h-16 bg-gradient-to-br from-cyan-500 to-blue-500 rounded-2xl flex items-center justify-center mx-auto mb-4">
               <Award className="w-8 h-8 text-white" />
             </div>
-            <h4 className="text-3xl font-bold text-white mb-2">3</h4>
+            <h4 className="text-3xl font-bold text-white mb-2">4</h4>
             <p className="text-gray-400 text-sm uppercase tracking-wider">CERTIFICATES</p>
             <p className="text-gray-500 text-xs mt-1">Professional skills validated</p>
             <ArrowRight className="w-4 h-4 text-cyan-400 mx-auto mt-3" />
